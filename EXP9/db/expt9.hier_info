@@ -1,0 +1,10 @@
+|expt9
+Y <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+clr => inst2.ACLR
+clk => inst2.CLK
+A => inst.IN0
+B => inst.IN1
+pre => inst2.PRESET
+X <= inst.DB_MAX_OUTPUT_PORT_TYPE
+
+
